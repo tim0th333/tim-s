@@ -63,7 +63,7 @@ export const portfolioData = {
       roleId: "Pengembang Front-End & Back-End",
       stack: ["Flutter Web", "Dart", "Material Design", "Firebase Auth", "Cloud Firestore"],
       githubUrl: "https://github.com/tim0th333",
-      demoUrl: "https://github.com/tim0th333",
+      demoUrl: "https://scanbar-opal.vercel.app/",
       figmaUrl: null,
       badge: "Web App"
     },
@@ -97,7 +97,7 @@ export const portfolioData = {
       roleId: "Pengembang Front-End",
       stack: ["Nuxt 3", "Vue.js", "TypeScript", "Tailwind CSS", "REST API"],
       githubUrl: "https://github.com/tim0th333",
-      demoUrl: "https://github.com/tim0th333",
+      demoUrl: "https://siagakontak.vercel.app/",
       figmaUrl: null,
       badge: "Web App"
     },
@@ -155,7 +155,6 @@ export const portfolioData = {
     }
   ],
 
-  // Specific student certificate links provided by user
   achievements: [
     {
       title: "Java (Basic)",
